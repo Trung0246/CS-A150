@@ -1,6 +1,6 @@
 #### Links to click:
 
-[Class (similar to Canvas)](https://piazza.com/cccd/spring2019/cs150/home)
+[Class (similar to Canvas), including resource](https://piazza.com/cccd/spring2019/cs150/home)
 
 [Class, mostly discussions](https://piazza.com/class/jq72bngvwwb27r)
 
@@ -17,7 +17,17 @@
 
 [OCC repos for homework](https://github.com/occ-cs150/homework-Trung0246)
 
-[Everything in one link](javascript:void(0))
+[Everything in one link **TODO**](javascript:void(0))
+
+#### Books:
+
+  - The C++ Programming Language
+  
+    - [Chapter 0](https://drive.google.com/file/d/1_kr1_MMUk7MfeZpuc1o7j2r93w7wzVEe/view)
+    
+  - [No idea but homework related?](https://drive.google.com/file/d/1eiMcj7TfPaX1utKbuchlKJemTHomAQtY/view)
+  
+  - [Fundamentals C++ Programming](https://python.cs.southern.edu/cppbook/progcpp.pdf)
  
 ## TODO:
 
