@@ -8,6 +8,8 @@
 
   - Nick is from \<name\>@student.cccd.edu with only \<name\>
   - Pass is student ID (C0*******)
+  
+[eDX, no idea what is this](https://courses.edx.org/u/ttran1412)
  
 ## TODO:
 
