@@ -4,5 +4,5 @@
 
 [Homework](http://cs170-console.appspot.com/)
 
-  - Nick is from <name>@student.cccd.edu with only <name>
+  - Nick is from \<name\>@student.cccd.edu with only \<name\>
   - Pass is student ID (C0*******)
