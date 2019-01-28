@@ -17,6 +17,8 @@
 
 [OCC repos for homework](https://github.com/occ-cs150/homework-Trung0246)
 
+[Syllabus](http://faculty.orangecoastcollege.edu/sgilbert/CS150S19/index.html)
+
 [Everything in one link **TODO**](javascript:void(0))
 
 #### Books:
