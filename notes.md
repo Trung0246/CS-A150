@@ -8,3 +8,9 @@
 
   - Nick is from \<name\>@student.cccd.edu with only \<name\>
   - Pass is student ID (C0*******)
+ 
+## TODO:
+
+  - [Biography](https://coastdistrict.instructure.com/profile) (X)
+  
+  
