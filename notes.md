@@ -21,7 +21,7 @@
 
 [Everything in one link **TODO**](javascript:void(0))
 
-[Clicker panel][file:///Q:/faculty5/sgilbert/CS150/MW-AM/Clicker-35993.jar]
+[Clicker panel](file:///Q:/faculty5/sgilbert/CS150/MW-AM/Clicker-35993.jar)
 
 #### Books:
 
