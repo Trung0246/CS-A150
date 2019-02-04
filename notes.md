@@ -23,7 +23,7 @@
 
 Clicker panel: file:///Q:/faculty5/sgilbert/CS150/MW-AM/Clicker-35993.jar
 
-#### Books:
+#### Books and learning stuff:
 
   - The C++ Programming Language
   
@@ -32,6 +32,8 @@ Clicker panel: file:///Q:/faculty5/sgilbert/CS150/MW-AM/Clicker-35993.jar
   - [No idea but homework related?](https://drive.google.com/file/d/1eiMcj7TfPaX1utKbuchlKJemTHomAQtY/view)
   
   - [Fundamentals C++ Programming](https://python.cs.southern.edu/cppbook/progcpp.pdf)
+  
+  - [Debugger HOWTO](https://www.youtube.com/watch?v=w4TAY2HPLEg)
  
 ## TODO:
 
