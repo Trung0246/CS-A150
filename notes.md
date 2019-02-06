@@ -28,8 +28,26 @@ Clicker panel: file:///Q:/faculty5/sgilbert/CS150/MW-AM/Clicker-35993.jar
   - The C++ Programming Language
   
     - [Chapter 0](https://drive.google.com/file/d/1_kr1_MMUk7MfeZpuc1o7j2r93w7wzVEe/view)
+    - [Chapter 1](https://drive.google.com/file/d/16ELHvI0LGSraBjDacvV8v9ivEKpW1NaT/view)
+    - [Chapter 2](https://drive.google.com/file/d/1WHDWSicVYs03aSXaL6pyrbIRX2_p9CLd/view)
+    - [Chapter 3](https://drive.google.com/file/d/1ZfBOBkUp35nETNgXBYShKHAaztKy69Qs/view)
     
-  - [No idea but homework related?](https://drive.google.com/file/d/1eiMcj7TfPaX1utKbuchlKJemTHomAQtY/view)
+  - No idea but homework related stuff:
+  
+    - [h00](https://drive.google.com/file/d/1eiMcj7TfPaX1utKbuchlKJemTHomAQtY/view)
+    - [h01](https://drive.google.com/file/d/1VL1USLMr8qGFjRgRCamZxFJOVnpmIvLj/view)
+    - [h02](https://drive.google.com/file/d/1ovQzeqo5_e2hXEsJa8S0XwboWBNcfwEP/view)
+    - [h03](https://drive.google.com/file/d/15HO-tAINRUBhTUUtWj_tbuLmSyXK6ixl/view)
+    
+  - Video tutorials:
+  
+    - [Using command lines](https://youtu.be/lnYKOnz9ln8)
+    - [Data types](https://youtu.be/q6K8KMqt8wQ)
+    - [Operators](https://youtu.be/f1xZf4iJDWE)
+    - [More operators](https://youtu.be/7apBtlEkJzk)
+    - [Conditional statements](https://youtu.be/FqUeHzvci10)
+    - [Loops](https://youtu.be/QOvo-xFL9II)
+    
   
   - [Fundamentals C++ Programming](https://python.cs.southern.edu/cppbook/progcpp.pdf)
   
@@ -37,6 +55,7 @@ Clicker panel: file:///Q:/faculty5/sgilbert/CS150/MW-AM/Clicker-35993.jar
  
 ## TODO:
 
-  - [Biography](https://coastdistrict.instructure.com/profile) (X)
+  - [Biography](https://coastdistrict.instructure.com/profile) (O)
+  - Homework and pre-class quiz everyday (f\*ck preclass quiz, they are stupid)
   
   
