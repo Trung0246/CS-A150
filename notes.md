@@ -31,6 +31,8 @@ Clicker panel: file:///Q:/faculty5/sgilbert/CS150/MW-AM/Clicker-35993.jar
     - [Chapter 1](https://drive.google.com/file/d/16ELHvI0LGSraBjDacvV8v9ivEKpW1NaT/view)
     - [Chapter 2](https://drive.google.com/file/d/1WHDWSicVYs03aSXaL6pyrbIRX2_p9CLd/view)
     - [Chapter 3](https://drive.google.com/file/d/1ZfBOBkUp35nETNgXBYShKHAaztKy69Qs/view)
+    - [Chapter 4](https://drive.google.com/file/d/1lIyEgKyX7Fu6kz0HrUsuSq2d2Zzdd7oP/view)
+    - [Chapter 5](https://drive.google.com/file/d/12W150Bfy7pE4Xn2v2SowDN244w9p8HBd/view)
     
   - No idea but homework related stuff:
   
@@ -38,20 +40,23 @@ Clicker panel: file:///Q:/faculty5/sgilbert/CS150/MW-AM/Clicker-35993.jar
     - [h01](https://drive.google.com/file/d/1VL1USLMr8qGFjRgRCamZxFJOVnpmIvLj/view)
     - [h02](https://drive.google.com/file/d/1ovQzeqo5_e2hXEsJa8S0XwboWBNcfwEP/view)
     - [h03](https://drive.google.com/file/d/15HO-tAINRUBhTUUtWj_tbuLmSyXK6ixl/view)
+    - [h04](https://drive.google.com/file/d/1IgqUqnib29q7l-b3CJdUaszWnZ_5szN8/view)
+    - [h05](https://drive.google.com/file/d/12W150Bfy7pE4Xn2v2SowDN244w9p8HBd/view)
     
   - Video tutorials:
   
+    - [Debugger](https://www.youtube.com/watch?v=w4TAY2HPLEg)
     - [Using command lines](https://youtu.be/lnYKOnz9ln8)
     - [Data types](https://youtu.be/q6K8KMqt8wQ)
     - [Operators](https://youtu.be/f1xZf4iJDWE)
     - [More operators](https://youtu.be/7apBtlEkJzk)
     - [Conditional statements](https://youtu.be/FqUeHzvci10)
     - [Loops](https://youtu.be/QOvo-xFL9II)
+    - [Functions](https://youtu.be/b7-0sb-DV84)
     
   
   - [Fundamentals C++ Programming](https://python.cs.southern.edu/cppbook/progcpp.pdf)
   
-  - [Debugger HOWTO](https://www.youtube.com/watch?v=w4TAY2HPLEg)
  
 ## TODO:
 
