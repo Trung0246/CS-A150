@@ -33,6 +33,8 @@ Clicker panel: file:///Q:/faculty5/sgilbert/CS150/MW-AM/Clicker-35993.jar
     - [Chapter 3](https://drive.google.com/file/d/1ZfBOBkUp35nETNgXBYShKHAaztKy69Qs/view)
     - [Chapter 4](https://drive.google.com/file/d/1lIyEgKyX7Fu6kz0HrUsuSq2d2Zzdd7oP/view)
     - [Chapter 5](https://drive.google.com/file/d/12W150Bfy7pE4Xn2v2SowDN244w9p8HBd/view)
+    - [Chapter 6](https://drive.google.com/file/d/1IycJheUcFXE8s_91JZ4o7WCtFnB7Rh3r/view)
+    - [Chapter 7](https://drive.google.com/file/d/1VoBWR4VdDvsiK1SHHVPgcWW05WfuEh0O/view)
     
   - No idea but homework related stuff:
   
@@ -42,6 +44,8 @@ Clicker panel: file:///Q:/faculty5/sgilbert/CS150/MW-AM/Clicker-35993.jar
     - [h03](https://drive.google.com/file/d/15HO-tAINRUBhTUUtWj_tbuLmSyXK6ixl/view)
     - [h04](https://drive.google.com/file/d/1IgqUqnib29q7l-b3CJdUaszWnZ_5szN8/view)
     - [h05](https://drive.google.com/file/d/12W150Bfy7pE4Xn2v2SowDN244w9p8HBd/view)
+    - [h06](https://drive.google.com/file/d/1vpMKOrRy-wlEMEFQ6FWABr6Bwm3dahrw/view)
+    - [h07](https://drive.google.com/file/d/1yoxTDRNIX64bTnH9MGel-AJasU0hnBUb/view)
     
   - Video tutorials:
   
@@ -53,6 +57,7 @@ Clicker panel: file:///Q:/faculty5/sgilbert/CS150/MW-AM/Clicker-35993.jar
     - [Conditional statements](https://youtu.be/FqUeHzvci10)
     - [Loops](https://youtu.be/QOvo-xFL9II)
     - [Functions](https://youtu.be/b7-0sb-DV84)
+    - [Variables and Scope](https://youtu.be/IQjPKJtYGQk)
     
   
   - [Fundamentals C++ Programming](https://python.cs.southern.edu/cppbook/progcpp.pdf)
