@@ -45,6 +45,12 @@ Clicker panel: file:///Q:/faculty5/sgilbert/CS150/MW-AM/Clicker-35993.jar
     - [Chapter 15](https://drive.google.com/file/d/1kdQ6-xUKB0YVl9n7PjHMihfs1kI6t9FX/view)
     - [Chapter 16](https://drive.google.com/file/d/1hAK8Jqldf3_ZNYmA-6a7LEiIO78zJlo4/view)
     - [Chapter 17](https://drive.google.com/file/d/1FZ4beDWGhHIN5oZ4Dvr_wPaV-BC4AwWg/view)
+    - [Chapter 18](https://drive.google.com/file/d/1cjIdUUlnYDuYqK_GJpvU90tOqvsRbABP/view)
+    - [Chapter 19](https://drive.google.com/file/d/1VB3kUPCVoAuSCIS8VyWYE6TunZ7EEHxI/view)
+    - [Chapter 20](https://drive.google.com/file/d/1983PyMTFFGdyduHTqW-S1ASumwvlR-qY/view)
+    - [Chapter 21](https://drive.google.com/file/d/1At6isTDOr6pG5Ufas95SD1LPYjz-f8gY/view)
+    - [Chapter 22](https://drive.google.com/file/d/1E0ZR_UM-aO21eiZ_tFC5iIKEQfHfMZE3/view)
+    - [Chapter 23](https://drive.google.com/file/d/1qHyQe-ScydCKATftGMNxR3h0o20gm_D6/view)
     
   - No idea but homework related stuff:
   
@@ -66,6 +72,12 @@ Clicker panel: file:///Q:/faculty5/sgilbert/CS150/MW-AM/Clicker-35993.jar
     - [h15](https://drive.google.com/file/d/1_8gis92BVNDinGraFqqI1BSBRPHfqOQ_/view)
     - [h16](https://drive.google.com/file/d/1T9d9meG3wqnKKfNilTnQshSLH-J5JS4K/view)
     - [h17](https://drive.google.com/file/d/1AiBT3WzT1x0nym_zdILd9bjQA-Qlqk1B/view)
+    - [h18](https://drive.google.com/file/d/1BXAtbyo1uT2PLCAxgo2qGdaE8mHYTjdR/view)
+    - [h19](https://drive.google.com/file/d/1EsisrSe6GSPO7HMB4eaNU4x1945ceFGH/view)
+    - [h20](https://drive.google.com/file/d/1_cpNtIldgfsMkQbRfMOR6EN31XKMfIkl/view)
+    - [h21](https://drive.google.com/file/d/1YHiHV83JNs7T13B5oA-C4rID4bzXWkxA/view)
+    - [h22](https://drive.google.com/file/d/1WC2MRg7PKWH0Qshvq1kHnhjACSZXYZkA/view)
+    - [h23](https://drive.google.com/file/d/1o3G_B4o4b8eAy0PjVF3uDFooOPM0HEqb/view)
     
   - Video tutorials:
   
