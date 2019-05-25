@@ -98,6 +98,7 @@ Clicker panel: file:///Q:/faculty5/sgilbert/CS150/MW-AM/Clicker-35993.jar
 ## TODO:
 
   - [Biography](https://coastdistrict.instructure.com/profile) (O)
-  - Homework and pre-class quiz everyday (f\*ck preclass quiz, they are stupid)
+  - Homework and pre-class quiz everyday (f\*ck preclass quiz, they are stupid) (O)
+  - Done everything !!! Summer time b\*tch 😎
   
   
